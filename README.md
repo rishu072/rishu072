@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
-<h3 align="center">🚀 B.Tech CSE (AI/ML) Student at PU| Full Stack Developer | Cloud & Linux Explorer | UI/UX Designer</h3>
+<h3 align="center">🚀 B.Tech CSE (AI/ML) Student at PU | 
+Full Stack Developer | Cloud & Linux Explorer | UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/RISHU_072/">
