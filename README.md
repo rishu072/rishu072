@@ -18,7 +18,7 @@ University |Full Stack Developer | Linux Explorer | UI/UX Designer</h3>
 - 👨‍💻 Full Stack Developer (MERN Stack)
 - ☁️ AWS Cloud & Microsoft Azure | Linux & Docker Enthusiast
 - 🎨 UI/UX Designer (Figma, Adobe XD)
-- 📚 Currently learning **DSA (Python & Java)**
+- 📚 Currently learning **DSA Java**
 - 🏆 Hackathon Participant | Passionate about solving real-world problems
 - 📧 Reach me at: **rishurajan102030@gmail.com**
 
