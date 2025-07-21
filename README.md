@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
-<h3 align="center">🚀 B.Tech CSE (AI/ML) Student at Parul University | Full Stack Developer | Data Scientist | Ethical Hacker | UI/UX Designer</h3>
+<h3 align="center">🚀 B.Tech CSE (AI/ML) Student at Parul University | Full Stack Developer | Data Scientist | UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/RISHU_072/">
@@ -14,11 +14,9 @@
 
 ### 🌟 About Me
 - 🎓 B.Tech CSE (AI/ML) student at **Parul University**
-- 👨‍💻 Full Stack Developer | App Developer (React Native)
+- 👨‍💻 Full Stack Developer 
 - 📊 Data Scientist | Machine Learning & Generative AI Enthusiast
-- 🎨 UI/UX Designer (Figma & Photoshop)
-- ☁️ Cloud: AWS & Azure | Cybersecurity Learner
-- 🔐 Ethical Hacking (Kali Linux, Wireshark, Metasploit)
+- 🎨 UI/UX Designer 
 - 📧 Reach me at: **rishurajan102030@gmail.com**
 - 🚀 Passionate about building real-world projects & participating in hackathons
 
