@@ -15,7 +15,7 @@ University | Linux Explorer | UI/UX Designer</h3>
 
 ### 🌟 About Me
 - 🎓 B.Tech CSE (AI/ML) student at **Parul University**
-- 👨‍💻 Full Stack Developer (MERN Stack)
+- 👨‍💻 MERN Stack Developer
 - ☁️ AWS Cloud & Microsoft Azure | Linux & Docker Enthusiast
 - 🎨 UI/UX Designer (Figma, Adobe XD)
 - 📚 Currently learning **DSA Java**
