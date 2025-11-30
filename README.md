@@ -68,16 +68,8 @@ University | Linux Explorer | UI/UX Designer</h3>
 
 ### 📊 LeetCode Stats
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E7FF&center=true&vCenter=true&width=500&lines=👋+Hi,+I’m+Rishu+Rajan;💻+B.Tech+CSE+(AI/ML)+Student;+🚀+Coding+Journey+in+Progress" />
-</p>
-
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu072&theme=tokyonight&hide_border=false&border_radius=15" width="380" />
-</p>
-
-<p align="center">
-
-  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity&border=3&radius=15" width="350" alt="LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishu072&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&border_radius=12" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&border=2&radius=12&ext=heatmap" height="150"/>
 </p>
 
 ---
