@@ -68,8 +68,7 @@ University | Linux Explorer | UI/UX Designer</h3>
 
 ### 📊 LeetCode Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishu072&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github&border_radius=12" height="150"/>
-  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&border=2&radius=12&ext=heatmap" height="150"/>
+  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity" width="300" alt="LeetCode Stats" />
 </p>
 
 ---
