@@ -68,12 +68,25 @@ University | Linux Explorer | UI/UX Designer</h3>
 
 ### 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity&border=3&radius=20&animation=true&bg=212121&hide_badges=false" width="350" alt="LeetCode Stats" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E7FF&center=true&vCenter=true&width=450&lines=🚀+Rishu+Rajan+on+Coding+Journey!;⭐+B.Tech+CSE+%7C+AIML+Student;🔥+Keep+Learning+Keep+Growing!" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E7FF&center=true&vCenter=true&width=450&lines=🚀+LeetCode+Journey+of+Rishu+Rajan!;⭐+DSA+Warrior+in+Progress;🔥+Coding+Everyday+to+Reach+the+Stars!" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishu-Rajan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&rank_icon=github" width="380" />
 </p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishu-Rajan&theme=tokyonight&hide_border=false&border_radius=15" width="380" />
+</p>
+
+<!-- LeetCode Stats -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=heatmap&border=3&radius=15" width="350" alt="LeetCode Stats" />
+</p>
+
 
 
 ---
