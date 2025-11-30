@@ -68,8 +68,13 @@ University | Linux Explorer | UI/UX Designer</h3>
 
 ### 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity" width="500" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity&border=3&radius=20&animation=true&bg=212121&hide_badges=false" width="350" alt="LeetCode Stats" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00E7FF&center=true&vCenter=true&width=450&lines=🚀+LeetCode+Journey+of+Rishu+Rajan!;⭐+DSA+Warrior+in+Progress;🔥+Coding+Everyday+to+Reach+the+Stars!" />
+</p>
+
 
 ---
 
