@@ -69,68 +69,10 @@ University | Linux Explorer | UI/UX Designer</h3>
 ### 📊 LeetCode Stats
 <!-- ===== LeetCode Signature Section ===== -->
 
-<h2 style="
-  text-align:center;
-  color:#00ffcc;
-  margin-bottom:6px;
-  letter-spacing:1px;
-">
-🚀 Competitive Programming Dashboard
-</h2>
+![LeetCode Stats](https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity)
 
-<p style="
-  text-align:center;
-  font-size:14px;
-  opacity:0.85;
-  margin-bottom:20px;
-">
-Consistency • DSA • Problem Solving Mindset
-</p>
+Solving DSA problems consistently to improve logic, optimization, and interview readiness.
 
-<div style="
-  backdrop-filter: blur(14px);
-  background: linear-gradient(
-    135deg,
-    rgba(0,255,200,0.08),
-    rgba(0,0,0,0.25)
-  );
-  border-radius: 20px;
-  padding: 18px;
-  width: 320px;
-  margin: auto;
-  box-shadow:
-    0 0 15px rgba(0,255,200,0.35),
-    0 0 35px rgba(0,255,160,0.25);
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-"
-onmouseover="
-  this.style.transform='scale(1.06)';
-  this.style.boxShadow='0 0 25px rgba(0,255,220,0.6), 0 0 50px rgba(0,255,180,0.45)';
-"
-onmouseout="
-  this.style.transform='scale(1)';
-  this.style.boxShadow='0 0 15px rgba(0,255,200,0.35), 0 0 35px rgba(0,255,160,0.25)';
-"
->
-  <img 
-    src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity"
-    width="100%"
-    style="border-radius: 14px;"
-    alt="LeetCode Stats"
-  />
-</div>
-
-<p style="
-  text-align:center;
-  margin-top:16px;
-  font-size:13.5px;
-  font-style:italic;
-  opacity:0.85;
-">
-“Solving problems daily to build scalable thinking.”
-</p>
-
-<!-- ===== End Section ===== -->
 
 ---
 
