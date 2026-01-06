@@ -65,16 +65,8 @@ University | Linux Explorer | UI/UX Designer</h3>
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
 ### 📊 LeetCode Stats
-<!-- ===== LeetCode Signature Section ===== -->
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity)
-
-Solving DSA problems consistently to improve logic, optimization, and interview readiness.
-
-
----
+<p align="center"> <img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity" width="300" alt="LeetCode Stats" /> </p>
 
 ### ✨ Fun Fact
 > “Eat 🍕 Code 💻 Sleep 😴 Repeat 🔁”
