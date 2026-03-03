@@ -13,7 +13,7 @@ University | Linux Explorer | UI/UX Designer</h3>
 
 ---
 
-### 🌟 About Me
+### 🌟 About me
 - 🎓 B.Tech CSE (AI/ML) student at **Parul University**
 - 👨‍💻 MERN Stack Developer
 - ☁️ AWS Cloud & Microsoft Azure | Linux & Docker Enthusiast
