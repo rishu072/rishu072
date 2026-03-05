@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
 
 <h3 align="center">
-🚀 B.Tech CSE (AI/ML) Student at Parul University | Python Full Stack Developer | MERN Developer | Linux Explorer | UI/UX Designer
+ B.Tech CSE (AI/ML) Student at Parul University | Python Full Stack Developer | MERN Developer | Linux Explorer | UI/UX Designer
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RISHU_072&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/RISHU_072/">
