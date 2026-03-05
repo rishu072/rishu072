@@ -102,18 +102,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RISHU_072&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RISHU_072&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Most Used Languages
 
 <p align="center">
