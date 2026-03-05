@@ -18,8 +18,7 @@
 # 🌟 About Me
 
 - 🎓 **B.Tech CSE (AI/ML) Student – Parul University**
-- 👨‍💻 **MERN Stack Developer**
-- 🐍 **Python Full Stack Developer (Flask, FastAPI, django)**
+- 👨‍💻 **MERN Stack Developer & Python Full Stack Developer (Flask, FastAPI, django)**
 - 📱 Learning **iOS Development with Swift**
 - ☁️ **AWS Cloud & Microsoft Azure Enthusiast**
 - 🐧 **Linux & Docker Explorer**
