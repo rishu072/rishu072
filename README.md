@@ -98,14 +98,6 @@
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHU_072&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 📊 LeetCode Stats
 
 <p align="center">
