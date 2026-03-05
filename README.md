@@ -21,7 +21,6 @@
 - 👨‍💻 **MERN Stack Developer & Python Full Stack Developer (Flask, FastAPI, django)**
 - 📱 Learning **iOS Development with Swift**
 - ☁️ **AWS Cloud & Microsoft Azure Enthusiast**
-- 🐧 **Linux & Docker Explorer**
 - 🔐 Exploring **Kali Linux**
 - 🎨 **UI/UX Designer (Figma, Adobe XD, Canva)**
 - 📚 Currently mastering **Data Structures & Algorithms in Java,CPP,Python**
