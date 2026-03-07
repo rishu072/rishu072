@@ -59,33 +59,6 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RISHU_072&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RISHU_072&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHU_072&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📊 GitHub Activity Graph
-
-[![Rishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RISHU_072&theme=tokyo-night)](https://github.com/RISHU_072)
-
----
-
 ## 📊 LeetCode Stats
 
 <p align="center">
