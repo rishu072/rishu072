@@ -3,11 +3,6 @@
 <h3 align="center">
 B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer | Linux Enthusiast
 </h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RISHU_072&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 <p align="center">
   <a href="https://leetcode.com/u/RISHU_072/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
