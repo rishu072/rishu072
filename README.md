@@ -72,15 +72,8 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer 
 - 🏅 Participated in **5+ Hackathons**
 - 💻 Built **Full Stack Web & AI Projects**
 - 📊 Active **LeetCode Problem Solver**
-
+  
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RISHU_072/RISHU_072/output/github-contribution-grid-snake.svg"/>
-</p>
-
 # ⚡ Fun Fact
 
 > Eat 🍕 Code 💻 Sleep 😴 Repeat 🔁
