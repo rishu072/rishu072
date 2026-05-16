@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
 
 <h3 align="center">
-B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer | Linux Enthusiast
+B.Tech CSE (AI/ML) Student | Python Full Stack Developer 
 </h3>
 <p align="center">
   <a href="https://leetcode.com/u/RISHU_072/">
@@ -17,11 +17,10 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer 
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (AI/ML) Student — Parul University**
-- 👨‍💻 **Python Full Stack & MERN Stack Developer**
+- 👨‍💻 **Python Full Stack**
 - 🐍 Backend development using **Django & Flask**
 - 🐧 Working with **Linux, Docker & Git**
 - 📚 Currently learning **Data Structures & Algorithms**
-- 🏆 Participated in **5+ Hackathons**
 - 📧 **rishurajan102030@gmail.com**
 
 ---
@@ -31,8 +30,6 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 ### 🌐 Web Development
@@ -49,15 +46,17 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer 
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 ### ⚙ Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor IDE](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains_Tools-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ## 📊 LeetCode Stats
 
@@ -69,7 +68,6 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer | MERN Stack Developer 
 
 ## 🏆 Achievements
 
-- 🏅 Participated in **5+ Hackathons**
 - 💻 Built **Full Stack Web & AI Projects**
 - 📊 Active **LeetCode Problem Solver**
   
