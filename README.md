@@ -1,181 +1,118 @@
-# Hi there 👋 I'm Rishu Raj
+```markdown
+<h1 align="center">Hi 👋, I'm Rishu Raj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Full+Stack+Developer;FastAPI+%7C+React+%7C+Python;Docker+%7C+Linux+%7C+Open+Source+Learner;Always+Learning+Something+New+%F0%9F%9A%80" />
+  <b>AI/ML Engineer • Full Stack Developer • B.Tech CSE (AI/ML)</b>
 </p>
 
 <p align="center">
+  Passionate about building AI-powered applications, scalable web solutions, and continuously improving through DSA & Open Source.
+</p>
 
-<a href="https://github.com/rishu072">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/RISHU_072/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codolio.com/profile/rishu_072">
-<img src="https://img.shields.io/badge/Codolio-4B4BFF?style=for-the-badge"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/rishu072">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://leetcode.com/u/RISHU_072/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:rishurajan102030@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-🎓 B.Tech CSE (AI/ML) Student at **Parul University**
-
-💡 Passionate about building intelligent AI applications and scalable web platforms.
-
-🚀 I enjoy solving real-world problems through AI, Full Stack Development, and Automation.
-
-- 🔭 Currently building AI-powered projects
-- 🌱 Learning FastAPI, Docker, Kubernetes & System Design
-- 💻 Practicing Data Structures & Algorithms daily
-- 🤝 Looking for Internship Opportunities
-- ⚡ Interested in AI, Computer Vision & Generative AI
-
-📧 **Email:** rishurajan102030@gmail.com
+- 🎓 B.Tech CSE (AI/ML) @ **Parul University**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 💻 Building **Full Stack Web Applications**
+- 🧠 Solving **Data Structures & Algorithms**
+- 🌱 Currently learning **FastAPI, Docker, System Design & Generative AI**
 
 ---
 
-# 🚀 Tech Stack
+## 💻 Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
----
-
-## 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
 </p>
 
----
-
-## ⚙ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,express" />
 </p>
 
----
-
-## 🤖 AI / ML
+### AI / ML
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-- OpenCV
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Google Gemini API
+**Libraries:** OpenCV • NumPy • Pandas • Scikit-Learn • Matplotlib • Gemini API
 
----
-
-## 🗄 Database
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
----
-
-## ☁ Cloud & DevOps
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,firebase,vercel,netlify"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,pycharm,idea" />
 </p>
 
 ---
 
-## 🛠 Tools
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,postman,anaconda"/>
-</p>
+🧠 **AI Fake News Detection System**
 
----
+🤖 **AI Call Center**
 
-# 🚀 Featured Projects
+📂 **File Management Web App**
 
-## 🧠 AI Fake News Detection System
-
-> Detect fake news using AI with Context Analysis.
-
-**Tech**
-
-FastAPI • React • Gemini AI • Machine Learning
+💬 **Neuro Inclusive AI Assistant**
 
 ---
 
-## 🤖 AI Call Center
-
-> AI Voice Assistant with intelligent response system.
-
-**Tech**
-
-Python • FastAPI • Speech Recognition • NLP
-
----
-
-## 📂 File Management Web App
-
-> Cloud based file management system.
-
-**Tech**
-
-React • Flask • MySQL
-
----
-
-## 🧠 Neuro Inclusive AI Assistant
-
-> AI Assistant designed for accessibility.
-
-**Tech**
-
-Python • AI • NLP
-
----
-
-# 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rishu072&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rishu072&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=rishu072&theme=tokyonight"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishu072&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu072&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu072&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -185,84 +122,41 @@ Python • AI • NLP
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 LeetCode
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rishu072&theme=tokyonight&row=1&column=7"/>
+<img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto"/>
 
 </p>
 
 ---
 
-# 💻 LeetCode Stats
+## 🌱 Currently Exploring
 
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Baloo&ext=contest"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Data Structures & Algorithms
+- Artificial Intelligence
 - Machine Learning
-- Deep Learning
 - FastAPI
 - Docker
-- Kubernetes
 - System Design
-- Generative AI
-- Open Source Contribution
+- Open Source
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="mailto:rishurajan102030@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/rishu072">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://leetcode.com/u/RISHU_072/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codolio.com/profile/rishu_072">
-<img src="https://img.shields.io/badge/Codolio-4B4BFF?style=for-the-badge"/>
-</a>
+<a href="https://github.com/rishu072">GitHub</a> •
+<a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">LinkedIn</a> •
+<a href="https://leetcode.com/u/RISHU_072/">LeetCode</a> •
+<a href="mailto:rishurajan102030@gmail.com">Email</a>
 
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rishu072&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=rishu072&style=flat-square"/>
 </p>
-
----
-
-# 💭 Quote
-
-> **"Building intelligent software one commit at a time." 🚀**
-
----
-
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+```
