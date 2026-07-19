@@ -4,7 +4,7 @@
 B.Tech CSE (AI/ML) Student | Python Full Stack Developer 
 </h3>
 <p align="center">
-  <a href="https://leetcode.com/u/RISHU_072/">
+  <a href="https://leetcode.com/u/RISHU072/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
@@ -62,7 +62,7 @@ B.Tech CSE (AI/ML) Student | Python Full Stack Developer
 ## 📊 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/RISHU_072?theme=dark&font=Roboto&ext=activity" width="320"/>
+<img src="https://leetcard.jacoblin.cool/RISHU072?theme=dark&font=Roboto&ext=activity" width="320"/>
 </p>
 
 ---
