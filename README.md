@@ -1,11 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Rishu%20Raj&fontSize=70&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=B.Tech%20CSE%20(AI%2FML)%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=52&descSize=18&descColor=cfe8ff" width="100%"/>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rishu+Raj+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+Student;Python+Full+Stack+Developer;Competitive+Programmer+%7C+LeetCode+%2B+Codeforces" alt="Typing SVG"/>
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/samples/profile-night-rainbow.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d94ac72-1b47-4dc0-b48d-2e75b83b0119.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -42,37 +46,9 @@
 
 ## 🛠 Tech stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Web development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nextjs,nodejs,express,django,flask,mysql,mongodb,linux,git,docker,vscode,anaconda&theme=dark&perline=9"/>
+</p>
 
 <br/>
 
@@ -90,6 +66,14 @@
 
 <br/>
 
+## 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rishu072&theme=darkhub&no-frame=true&row=1&column=6"/>
+</p>
+
+<br/>
+
 ## 🏆 Achievements
 
 - 💻 Built full-stack web and AI/ML projects — DSA revision tracker, GitHub analytics dashboard, accessible AI reader app
@@ -102,12 +86,12 @@
 
 <br/>
 
-## 🐍 Contribution graph
+## 🐍 Snake eats the grid
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rishu072/rishu072/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
 
-> Set up automatically — see the setup note below.
+> Requires a one-time GitHub Action setup on your profile repo — see note below.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:0f2027,100:00c6ff&height=120&section=footer" width="100%"/>
