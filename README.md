@@ -1,4 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Rishu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI%2FML)%20%7C%20Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+ <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
+
+<h3 align="center">
+B.Tech CSE (AI/ML) Student | Python Full Stack Developer 
+</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/RISHU072/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/RISHU072/">
