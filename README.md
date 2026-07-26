@@ -52,28 +52,6 @@
 
 <br/>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishu072&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishu072&theme=dark&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishu072&layout=compact&theme=dark&hide_border=true" width="49%"/>
-  <img src="https://leetcard.jacoblin.cool/RISHU072?theme=dark&font=Roboto&ext=activity" width="49%"/>
-</p>
-
-<br/>
-
-## 🏅 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishu072&theme=darkhub&no-frame=true&row=1&column=6"/>
-</p>
-
-<br/>
-
 ## 🏆 Achievements
 
 - 💻 Built full-stack web and AI/ML projects — DSA revision tracker, GitHub analytics dashboard, accessible AI reader app
@@ -85,13 +63,3 @@
 <p align="center">⚡ Eat 🍕 · Code 💻 · Sleep 😴 · Repeat 🔁</p>
 
 <br/>
-
-## 🐍 Snake eats the grid
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishu072/rishu072/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
-
-> Requires a one-time GitHub Action setup on your profile repo — see note below.
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:0f2027,100:00c6ff&height=120&section=footer" width="100%"/>
