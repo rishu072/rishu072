@@ -1,4 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Rishu%20Raj%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI%2FML)%20Student%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header" width="100%"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rishu+Raj+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+Student;Python+Full+Stack+Developer;Competitive+Programmer+%7C+LeetCode+%2B+Codeforces" alt="Typing SVG"/>
+</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380"/>
+</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/RISHU072/">
@@ -91,5 +99,15 @@
 <br/>
 
 <p align="center">⚡ Eat 🍕 · Code 💻 · Sleep 😴 · Repeat 🔁</p>
+
+<br/>
+
+## 🐍 Contribution graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishu072/rishu072/output/github-contribution-grid-snake.svg" width="100%"/>
+</p>
+
+> Set up automatically — see the setup note below.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
