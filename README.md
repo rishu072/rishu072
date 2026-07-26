@@ -5,18 +5,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishu072/rishu072/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d94ac72-1b47-4dc0-b48d-2e75b83b0119.gif" width="500"/>
-</p>
-
-<p align="center">
   <a href="https://leetcode.com/u/RISHU072/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://codeforces.com/profile/RISHU072">
+  <a href="https://codeforces.com/profile/rishu_072">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
@@ -26,12 +18,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishu072&style=for-the-badge&color=2c5364" alt="profile views"/>
-</p>
-
-<br/>
 
 ## 🚀 About me
 
@@ -59,7 +45,5 @@
 - 📈 Active problem solver on LeetCode and Codeforces
 
 <br/>
-
 <p align="center">⚡ Eat 🍕 · Code 💻 · Sleep 😴 · Repeat 🔁</p>
-
 <br/>
