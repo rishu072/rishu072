@@ -3,14 +3,6 @@
 <h3 align="center">
 B.Tech CSE (AI/ML) Student | Python Full Stack Developer 
 </h3>
-<p align="center">
-  <a href="https://leetcode.com/u/RISHU072/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rishu-raj-0071b6324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://leetcode.com/u/RISHU072/">
