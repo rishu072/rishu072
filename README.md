@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/samples/profile-night-rainbow.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/rishu072/rishu072/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </p>
 
 <p align="center">
