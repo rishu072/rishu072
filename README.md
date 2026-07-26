@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Rishu+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+Student;Full-Stack+%26+AI%2FML+Developer;Competitive+Programmer+%7C+LeetCode+%2B+Codeforces" alt="Typing SVG" />
+</h1>
+
  <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
 
 <h3 align="center">
