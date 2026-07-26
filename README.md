@@ -1,12 +1,5 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Rishu+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+Student;Full-Stack+%26+AI%2FML+Developer;Competitive+Programmer+%7C+LeetCode+%2B+Codeforces" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Rishu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20(AI%2FML)%20%7C%20Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
- <h1 align="center">Hi 👋, I'm Rishu Raj</h1>
-
-<h3 align="center">
-B.Tech CSE (AI/ML) Student | Python Full Stack Developer 
-</h3>
 <p align="center">
   <a href="https://leetcode.com/u/RISHU072/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
