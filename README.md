@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Rishu%20Raj&fontSize=70&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=B.Tech%20CSE%20(AI%2FML)%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=52&descSize=18&descColor=cfe8ff" width="100%"/>
 
 <p align="center">
-  <a href="https://leetcode.com/u/RISHU072/">
+  <a href="https://leetcode.com/u/RISHU_072/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://codeforces.com/profile/rishu_072">
