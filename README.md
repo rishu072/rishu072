@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Rishu%20Raj&fontSize=70&fontColor=ffffff&fontAlignY=32&animation=twinkling&desc=B.Tech%20CSE%20(AI%2FML)%20%7C%20Python%20Full%20Stack%20Developer&descAlignY=52&descSize=18&descColor=cfe8ff" width="100%"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=2C5364&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Rishu+Raj+%F0%9F%91%8B;B.Tech+CSE+(AI%2FML)+Student;Python+Full+Stack+Developer;Competitive+Programmer+%7C+LeetCode+%2B+Codeforces" alt="Typing SVG"/>
-</h1>
-
 <p align="center">
   <a href="https://leetcode.com/u/RISHU072/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
